@@ -1,13 +1,13 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jieunchc&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=sugachc&fontSize=90)
 
 
  
 <br>
 
 
-💖jieunchc💖
+💖sugachc💖
 ----------------------------------------------------------------------------------------------------------------------
 언제나 더 나은 대안을 모색하는 개발자가 되겠습니다
 
