@@ -11,6 +11,10 @@
 ----------------------------------------------------------------------------------------------------------------------
 언제나 더 나은 대안을 모색하는 개발자가 되겠습니다
 
+✨ Good morning. ✨ I am currently a student whose goal is to become a junior developer.  
+I am constantly working on the daily commit movement.  
+Whenever I want to give up, I always shout "I make it myself".  
+
 <br><br>
 
 
